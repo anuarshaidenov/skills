@@ -14,7 +14,7 @@ Developers and founders who use agents and want ready-made workflows for tasks t
 
 ## Install
 
-Clone the repo:
+usings skills.sh
 
 ```sh
 npx skills@latest add anuarshaidenov/skills
