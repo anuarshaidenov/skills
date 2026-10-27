@@ -8,9 +8,10 @@ Developers and founders who use agents and want ready-made workflows for tasks t
 
 ## Skills
 
-| Skill                                                  | What it does                                                                                                     |
-| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| [`sell-the-outcome`](skills/sell-the-outcome/SKILL.md) | Audits landing page copy that sells features instead of outcomes, then proposes paste-ready rewrites. Read-only. |
+| Skill                                                  | What it does                                                                                                                        |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [`delegate`](skills/delegate/SKILL.md)                 | Splits a task into sub-tasks and fans them out to subagents, each at an effort level sized to its complexity. Run with `/delegate`. |
+| [`sell-the-outcome`](skills/sell-the-outcome/SKILL.md) | Audits landing page copy that sells features instead of outcomes, then proposes paste-ready rewrites. Read-only.                    |
 
 ## Install
 
